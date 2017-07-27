@@ -37,10 +37,7 @@ Windows下要使用很多Linux/Unix的工具时，需要Cygwin这样的模拟环
 msysgit是Windows版的Git，从https://git-for-windows.github.io下载（网速慢的同学请移步国内镜像），然后按默认选项安装即可。
 
 安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功！
-
-<img src="images/o.jpeg">
-|<a href="https://github.com/webpack/html-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/html5.svg"></a>|![html-npm]|Exports HTML as string, require references to static resources|
-
+<img  src="images/0.jpeg">
 
 安装完成后，还需要最后一步设置，在命令行输入：
 ```bash
