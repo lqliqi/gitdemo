@@ -38,7 +38,7 @@ msysgit是Windows版的Git，从https://git-for-windows.github.io下载（网速
 
 安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功！
 
-![Alt text](images/o.jpeg "git")
+<img src="images/o.jpeg">
 
 安装完成后，还需要最后一步设置，在命令行输入：
 ```bash
